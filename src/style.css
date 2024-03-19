@@ -5,6 +5,10 @@ h1{
     padding-top: 50px;
     color: black;
 }
+
+h2{
+    color: darkred;
+}
 p{
     padding: 50px;
     color: black;
