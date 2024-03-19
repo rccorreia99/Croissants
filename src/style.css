@@ -1,0 +1,16 @@
+body{
+    color: bisque;
+}
+h1{
+    padding-top: 50px;
+    color: black;
+}
+p{
+    padding: 50px;
+    color: black;
+}
+
+
+.container{
+    padding-top: -20px;
+}
